@@ -1,0 +1,33 @@
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\.NET\19.0\SimpleReadWrite\bin\Debug\SimpleReadWrite.exe.config
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\.NET\19.0\SimpleReadWrite\obj\Debug\SimpleReadWrite.2015.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\.NET\19.0\SimpleReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\.NET\19.0\SimpleReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.SelectResource.resources
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\.NET\19.0\SimpleReadWrite\obj\Debug\SimpleReadWrite.2015.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SimpleReadWrite\bin\Debug\SimpleReadWrite.exe.config
+C:\Users\User\Desktop\SimpleReadWrite\obj\Debug\SimpleReadWrite.2015.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SimpleReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\User\Desktop\SimpleReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.SelectResource.resources
+C:\Users\User\Desktop\SimpleReadWrite\obj\Debug\SimpleReadWrite.2015.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SimpleReadWrite\bin\Debug\SimpleReadWrite.exe
+C:\Users\User\Desktop\SimpleReadWrite\bin\Debug\SimpleReadWrite.pdb
+C:\Users\User\Desktop\SimpleReadWrite\bin\Debug\Ivi.Visa.dll
+C:\Users\User\Desktop\SimpleReadWrite\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\User\Desktop\SimpleReadWrite\bin\Debug\Ivi.Visa.xml
+C:\Users\User\Desktop\SimpleReadWrite\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\User\Desktop\SimpleReadWrite\obj\Debug\SimpleReadWrite.exe
+C:\Users\User\Desktop\SimpleReadWrite\obj\Debug\SimpleReadWrite.pdb
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\bin\Debug\SimpleReadWrite.exe.config
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\bin\Debug\SimpleReadWrite.exe
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\bin\Debug\SimpleReadWrite.pdb
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\bin\Debug\Ivi.Visa.xml
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\obj\Debug\SimpleReadWrite.2015.csprojAssemblyReference.cache
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.SelectResource.resources
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\obj\Debug\SimpleReadWrite.2015.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\obj\Debug\SimpleReadWrite.2015.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\obj\Debug\SimpleReadWrite.2015.csproj.CopyComplete
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\obj\Debug\SimpleReadWrite.exe
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\obj\Debug\SimpleReadWrite.pdb
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\bin\Debug\Ivi.Visa.dll
+C:\Users\berka\Desktop\port\sabit_merkez\SimpleReadWrite\bin\Debug\NationalInstruments.Visa.dll

@@ -1,0 +1,15 @@
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\bin\Debug\kaynak.exe.config
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\bin\Debug\kaynak.exe
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\bin\Debug\kaynak.pdb
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\bin\Debug\Ivi.Visa.dll
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\bin\Debug\Ivi.Visa.xml
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\obj\Debug\kaynak.csprojAssemblyReference.cache
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\obj\Debug\kaynak.Form1.resources
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\obj\Debug\kaynak.Properties.Resources.resources
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\obj\Debug\kaynak.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\obj\Debug\kaynak.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\obj\Debug\kaynak.csproj.CopyComplete
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\obj\Debug\kaynak.exe
+C:\Users\berka\Desktop\port\sabit_merkez\deneme\kaynak\obj\Debug\kaynak.pdb
